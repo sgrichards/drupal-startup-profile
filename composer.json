@@ -38,7 +38,7 @@
     "drupal/ape": "1.1.0",
     "drupal/environment_indicator": "3.0.0",
     "drupal/stage_file_proxy": "1.0-alpha2",
-    "drupal/ultimate_cron": "2.0-alpha1"
+    "drupal/ultimate_cron": "2.0-alpha3"
   },
   "extra": {
     "enable-patching": true,
