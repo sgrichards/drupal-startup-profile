@@ -1,7 +1,7 @@
 {
   "name": "sgrichards/drupal-startup-profile",
   "description": "Startup profile for Drupal 8",
-  "type": "project",
+  "type": "drupal-profile",
   "license": "GPL-2.0+",
   "authors": [
     {
