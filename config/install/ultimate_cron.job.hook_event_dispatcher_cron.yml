@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - hook_event_dispatcher
+title: 'Default cron handler'
+id: hook_event_dispatcher_cron
+weight: 0
+module: hook_event_dispatcher
+callback: hook_event_dispatcher_cron
+scheduler:
+  id: simple
+launcher:
+  id: serial
+logger:
+  id: database
